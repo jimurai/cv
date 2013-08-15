@@ -19,6 +19,7 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
 ### Advanced
 * Something
 * Something Else
+
 ### Intermediate
 * Something
 * Something Else
@@ -47,7 +48,7 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
 Thesis titled: [*"A Photoplethysmography System Optimised for Wearable Pervasive Cardiac Monitoring"*][thesis]. Involved finding a robust solution to optical noise issues that could be implemented in a minimal number of components.
  
 **MEng, Electrical and Electronic Engineering**  
-*Imperial College London, 2000-2004*
+*Imperial College London, 2000-2004*  
 Course selection focussed on control engineering and analogue circuit design. Final year project researched temperature compensation for MEMS seismometer for use on Mars.
 
 ## Personal Details
