@@ -4,7 +4,7 @@
 
 I am an electronic engineer with over 10 years of experience in the analysis and design of both analogue and digital circuits, and embedded system development for low-power sensing and control systems.
 
-Currently I develop reference hardware and firmware designs for Optical Images Stabilisation solutions for mobile phone handsets. 
+In my current role as Lead Electronic Engineer at [Cambridge Mechatronics Ltd.][cml] I develop reference hardware and firmware designs for Optical Images Stabilisation solutions for mobile phone handsets as well as lead the development of control architecture for our shape memory alloy actuators.
 
 My [PhD][thesis] from Imperial College London was in biomedical electronics where I researched techniques to enable continuous cardiac monitoring of patients with minimum impact on their lives. The outcome was a pulse oximeter sensor that combined high-dynamic range noise rejection with embedded signal analysis and sub-10mW power consumption using only off-the-shelf components.
 
@@ -15,21 +15,25 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
 [icl]: http://www3.imperial.ac.uk/roboticsurgery/research/pervasivesensing "Hamlyn Centre"
 [linkedin]: http://uk.linkedin.com/in/jamesacpatterson "LinkedIn"
 
-## Skills
-### Advanced
-* Something
-* Something Else
-
-### Intermediate
-* Something
-* Something Else
+## Skills Highlights
+* System Engineering
+* Analogue/Mixed-Signal/Digital PCB and ASIC design
+* FPGA PCB and RTL design
+* Signal Processing
+* Discrete-time Control
+* Non-linear Control
+### Languages
+* Verilog
+* Embedded C/C++
+* Python (NumPy,SciPy,Cython)
+* MATLAB
 
 
 ## Recent Employment
 
 ### [Cambridge Mechatronics Ltd.][cml]  
 *June 2012 to Present*  
-**Senior Electronics Engineer**  
+**Lead Electronics Engineer**  
 
 ### [Imperial College London][icl]
 *October 2008 to March 2012*  
