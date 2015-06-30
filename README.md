@@ -4,7 +4,7 @@
 
 I am an electronic engineer with over 10 years of experience in the analysis and design of both analogue and digital circuits, and embedded system development for low-power sensing and control systems.
 
-In my current role as Lead Electronic Engineer at [Cambridge Mechatronics Ltd.][cml] I develop reference hardware and firmware designs for Optical Images Stabilisation solutions for mobile phone handsets as well as lead the development of control architecture for our shape memory alloy actuators.
+In my current role as Lead Electronic Engineer at [Cambridge Mechatronics Ltd.][cml] I develop reference hardware and firmware designs for Optical Images Stabilisation solutions for mobile phone handsets as well as lead the development of the control architecture for our shape memory alloy actuators.
 
 My [PhD][thesis] from Imperial College London was in biomedical electronics where I researched techniques to enable continuous cardiac monitoring of patients with minimum impact on their lives. The outcome was a pulse oximeter sensor that combined high-dynamic range noise rejection with embedded signal analysis and sub-10mW power consumption using only off-the-shelf components.
 
@@ -14,7 +14,7 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
 [ccl]: http://www.cambridgeconsultants.com/ "Cambridge Consultants"
 [icl]: http://www3.imperial.ac.uk/roboticsurgery/research/pervasivesensing "Hamlyn Centre"
 [linkedin]: http://uk.linkedin.com/in/jamesacpatterson "LinkedIn"
-[esprit]: http://vip.doc.ic.ac.uk/esprit/m827.html
+[esprit]: http://vip.doc.ic.ac.uk/esprit/m827.html "Elite Sport Performance Research in Training"
 
 ## Skills 
 ### Highlights
@@ -33,8 +33,6 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
  * Discrete-time systems
  * Non-linearity and hysteresis compensation
  * Multi-variable servo control
- * Combined feed-back and feed-forward networks
- * Adaptive detection and application of safe limits
 * System Engineering
  * Requirements capture
  * Project planning and management
@@ -60,7 +58,7 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
 
 Developed reference hardware design for OIS control system. MCU, gyroscope and analogue resistance sensing incorporated into 8.1 x 4.5mm circuit design. Required use of high density features such as copper filled microvias, buried via for 0.4mm pitch WL-CSP packages. Designed to be manufactured in millions per month.
 
-Lead the development of advanced control features to ensure OIS product met customer requirements while being robust to manufacturing tolerances of a very high volume actuator.
+Lead the development of advanced control features to ensure OIS product met customer requirements while being robust to manufacturing tolerances of a very high volume actuator. Applied test-drive development methodology to improve communications and product quality when managing a small software development team.
 
 ### [Imperial College London][icl]
 *October 2008 to March 2012*  
@@ -74,7 +72,9 @@ Thesis titled: [*"A Photoplethysmography System Optimised for Wearable Pervasive
 *September 2004 to September 2008*  
 **Senior Engineer, Engineer**   
 *September 1999 to July 2000*  
-**Technology Scholar**  
+**Technology Scholar**
+
+Delivered designs for a wide range of consumer and medical products on tight time-lines and budget constraints.  Everything from implantable wireless devices to intelligent ironing boards. Also mentored gap year students ("technology scholars"). Latterly contributed to planning of large projects and managing of smaller projects.
 
 ## Education
 **PhD, Pervasive Sensing**  
