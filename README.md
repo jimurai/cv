@@ -45,6 +45,7 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
 * Verilog
 * MATLAB
 * SPICE
+
 #### Basic
 * MCU Assembly
 * Javascript (Node.js)
@@ -81,7 +82,7 @@ Delivered designs for a wide range of consumer and medical products on tight tim
 *Imperial College London, 2008-2012*  
 
  
-**MEng, Electrical and Electronic Engineering**  
+**MEng, 1st class, Electrical and Electronic Engineering**  
 *Imperial College London, 2000-2004*  
 Course selection focussed on control engineering and analogue circuit design. Final year project researched temperature compensation for MEMS seismometer for use on Mars.
 
