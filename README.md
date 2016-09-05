@@ -57,13 +57,13 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
 ## Recent Employment
 
 ### [Cambridge Mechatronics Ltd.][cmr]  
-*November 2015 to present*
-**Senior Engineer**
+*November 2015 to present*  
+**Senior Engineer**  
 Developing and managing the development of electronics hardware for our surgical robotics system.
 
-### [Cambridge Mechatronics Ltd.][cml]  
-*June 2012 to November 2015*
-**Lead Electronics Engineer**
+### [Cambridge Mechatronics Ltd.][cml]
+*June 2012 to November 2015*  
+**Lead Electronics Engineer**  
 Developed reference hardware design for shape memory alloy actuators used in Optical Image Stabilisation for mobile phone cameras. MCU, gyroscope and analogue resistance sensing incorporated into 8.1 x 4.5mm circuit design. Required use of high density features such as copper filled microvias, buried via for 0.4mm pitch WL-CSP packages. Designed to be manufactured in millions per month.
 
 Lead the development of advanced control features to ensure OIS product met customer requirements while being robust to manufacturing tolerances of a very high volume actuator. Applied test-drive development methodology to improve communications and product quality when managing a small software development team.
