@@ -1,4 +1,4 @@
-# Curriculum Vitae of James A. C. Patterson
+# Curriculum Vitae of Jim Patterson
 
 ## Summary
 
@@ -27,9 +27,9 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
  * ASIC logic library creation
 * Communications - Physical Layer
  * I2C, SPI, RS232, RS485, USB, LVDS
- * PCIe, HDMI, 3G-SDI, CoaXPress
+ * PCIe, HDMI, SDI, CoaXPress
 * Signal Processing
- * Embedded filters
+ * Embedded filtering
  * Non-stationary signal analysis
  * Image processing
 * Control Systems
@@ -42,7 +42,7 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
  * Performance and test specification
 
 ### Programming Languages
-#### Professional
+#### Professional Experience
 * Embedded C/C++
 * Python (NumPy,SciPy,Cython,PyQt)
 * Verilog
@@ -52,7 +52,7 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
 #### Basic
 * MCU Assembly
 * Javascript (Node.js)
-* VHDL
+* VHDL, SystemVerilog
 
 ## Recent Employment
 
