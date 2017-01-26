@@ -41,10 +41,11 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
  * Project planning and management
  * Performance and test specification
 
-### Programming Languages
+### Tools / Programming Languages
 #### Professional Experience
 * Embedded C/C++
 * Python (NumPy,SciPy,Cython,PyQt)
+* PCB EDA (Altium Designer)
 * Verilog
 * MATLAB
 * SPICE
