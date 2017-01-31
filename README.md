@@ -57,7 +57,7 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
 
 ## Recent Employment
 
-### [Cambridge Mechatronics Ltd.][cmr]  
+### [Cambridge Medical Robotics][cmr]  
 *November 2015 to present*  
 **Senior Engineer**  
 Developing and managing the development of electronics hardware for our surgical robotics system.
