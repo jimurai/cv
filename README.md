@@ -2,14 +2,15 @@
 
 ## Summary
 
-I am an electronic engineer with over 10 years of experience in the analysis and design of both analogue and digital circuits, and embedded system development for sensing and control systems.
+I am an electronic engineer with over 12 years of experience in the analysis and design of both analogue and digital circuits, and embedded system development for sensing and control systems.
 
-In my current role as Senior Engineer at [Cambridge Medical Robotics][cmr] I have leading role in the development of the electronics for the CMR Robotic Surgery System.
+In my current role as Electronics Group Leader at [Evonetix][evo] I lead the development of electronic hardware and embedded control systems in order to support the development of Evonetix unique DNA synthesis technology.
 
 My [PhD][thesis] from Imperial College London was in biomedical electronics where I researched techniques to enable continuous cardiac monitoring of patients with minimum impact on their lives. The outcome was a pulse oximeter sensor that combined high-dynamic range noise rejection with embedded signal analysis and sub-10mW power consumption using only off-the-shelf components.
 
 [github]: http://github.com/jimurai "My github repositories"
 [thesis]: http://bit.ly/10fROfH "My PhD Thesis"
+[evo]: https://www.evonetix.com/ "Evonetix"
 [cml]: http://cambridgemechatronics.com/ "Cambridge Mechatronics"
 [cmr]: http://www.cmedrobotics.com/ "Cambridge Medical Robotics"
 [ccl]: http://www.cambridgeconsultants.com/ "Cambridge Consultants"
@@ -46,21 +47,26 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
 * Embedded C/C++
 * Python (NumPy,SciPy,Cython,PyQt)
 * PCB EDA (Altium Designer)
-* Verilog
+* VHDL & Verilog
 * MATLAB
 * SPICE
 
 #### Basic
 * MCU Assembly
 * Javascript (Node.js)
-* VHDL, SystemVerilog
+* SystemVerilog
 
 ## Recent Employment
 
+### [Evonetix][evo]  
+*April 2017 to present*  
+**Electronics Group Leader**  
+Leading the development of electronic hardware and embedded control systems in order to support the development of Evonetix unique DNA synthesis technology.
+
 ### [Cambridge Medical Robotics][cmr]  
-*November 2015 to present*  
+*November 2015 to March 2017*  
 **Senior Engineer**  
-Developing and managing the development of electronics hardware for our surgical robotics system.
+Had a leading role in the development of electronics hardware for the Versius surgical robotic. Primary contributions were enhanced quality controls for PCB CAD procedures as well as PCB testing procedures and EMC compliance activities.
 
 ### [Cambridge Mechatronics Ltd.][cml]
 *June 2012 to November 2015*  
