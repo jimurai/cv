@@ -21,26 +21,26 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
 ## Skills 
 ### Highlights
 * Analogue Circuit Design
- * Low power, low-noise PCB and ASIC sensor systems
- * Mixed-signal data acquisition systems
+  * Low power, low-noise PCB and ASIC sensor systems
+  * Mixed-signal data acquisition systems
 * Digital Circuit Design
- * FPGA PCB and RTL
- * ASIC logic library creation
+  * FPGA PCB and RTL
+  * ASIC logic library creation
 * Communications - Physical Layer
- * I2C, SPI, RS232, RS485, USB, LVDS
- * PCIe, HDMI, SDI, CoaXPress
+  * I2C, SPI, RS232, RS485, USB, LVDS
+  * PCIe, HDMI, SDI, CoaXPress
 * Signal Processing
- * Embedded filtering
- * Non-stationary signal analysis
- * Image processing
+  * Embedded filtering
+  * Non-stationary signal analysis
+  * Image processing
 * Control Systems
- * Discrete-time systems
- * Non-linearity and hysteresis compensation
- * Multi-variable servo control
+  * Discrete-time systems
+  * Non-linearity and hysteresis compensation
+  * Multi-variable servo control
 * System Engineering
- * Requirements capture
- * Project planning and management
- * Performance and test specification
+  * Requirements capture
+  * Project planning and management
+  * Performance and test specification
 
 ### Tools / Programming Languages
 #### Professional Experience
