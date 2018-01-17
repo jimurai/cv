@@ -66,7 +66,7 @@ Leading the development of electronic hardware and embedded control systems in o
 ### [Cambridge Medical Robotics][cmr]  
 *November 2015 to March 2017*  
 **Senior Engineer**  
-Had a leading role in the development of electronics hardware for the Versius surgical robotic. Primary contributions were enhanced quality controls for PCB CAD procedures as well as PCB testing procedures and EMC compliance activities.
+Had a leading role in the development of electronics hardware for the Versius surgical robotic system. Primary contributions were enhanced quality control for PCB CAD procedures as well as PCB testing procedures and EMC compliance activities.
 
 ### [Cambridge Mechatronics Ltd.][cml]
 *June 2012 to November 2015*  
