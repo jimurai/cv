@@ -30,7 +30,7 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
   * I2C, SPI, RS232, RS485, USB, LVDS
   * PCIe, HDMI, CoaXPress
 * Signal Processing
-  * Embedded filtering
+  * Time-domain filtering (IIR, FIR, LWDF)
   * Non-stationary signal analysis
   * Image processing
 * Control Systems
