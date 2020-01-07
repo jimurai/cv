@@ -99,6 +99,6 @@ Course selection focussed on control engineering and analogue circuit design. Fi
 
 * Name: James Alwyn Cameron Patterson
 * Location: Cambridge, UK
-* LinkedIn: [http://uk.linkedin.com/in/jamesacpatterson][linkedin]
+* LinkedIn: [https://www.linkedin.com/in/jimacpatterson/][linkedin]
 
 
