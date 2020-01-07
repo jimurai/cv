@@ -2,9 +2,9 @@
 
 ## Summary
 
-I am an electronic engineer with over 12 years of experience in the analysis and design of both analogue and digital circuits, and embedded system development for sensing and control systems.
+I am an electronic engineer with 20 years of combined academic and industrial experience in the analysis, design and delivery of both analogue and digital circuits, and embedded system development for sensing and control systems.
 
-In my current role as Electronics Group Leader at [Evonetix][evo] I lead the development of electronic hardware and embedded control systems in order to support the development of Evonetix unique DNA synthesis technology.
+In my current role as Head of Electronics at [Evonetix][evo] I lead the development of electronic hardware and embedded control systems in order to support the development of Evonetix unique DNA synthesis technology.
 
 My [PhD][thesis] from Imperial College London was in biomedical electronics where I researched techniques to enable continuous cardiac monitoring of patients with minimum impact on their lives. The outcome was a pulse oximeter sensor that combined high-dynamic range noise rejection with embedded signal analysis and sub-10mW power consumption using only off-the-shelf components.
 
@@ -26,9 +26,9 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
 * Digital Circuit Design
   * FPGA PCB and RTL
   * ASIC logic library creation
-* Communications - Physical Layer
+* Communications - Physical/Electrical Layer
   * I2C, SPI, RS232, RS485, USB, LVDS
-  * PCIe, HDMI, SDI, CoaXPress
+  * PCIe, HDMI, CoaXPress
 * Signal Processing
   * Embedded filtering
   * Non-stationary signal analysis
@@ -51,16 +51,11 @@ My [PhD][thesis] from Imperial College London was in biomedical electronics wher
 * MATLAB
 * SPICE
 
-#### Basic
-* MCU Assembly
-* Javascript (Node.js)
-* SystemVerilog
-
 ## Recent Employment
 
 ### [Evonetix][evo]  
 *April 2017 to present*  
-**Electronics Group Leader**  
+**Head of Electronics**  
 Leading the development of electronic hardware and embedded control systems in order to support the development of Evonetix unique DNA synthesis technology.
 
 ### [Cambridge Medical Robotics][cmr]  
