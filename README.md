@@ -117,7 +117,7 @@ Course selection focussed on control engineering and analogue circuit design. Fi
 * Full name: James Alwyn Cameron Patterson
 * Location: Cambridge, UK
 * [GitHub](https://github.com/jimurai)
-* [LinkedIn]([linkedin])
+* [LinkedIn]([lnkdn])
 
 ### Hobbies
 
@@ -133,5 +133,5 @@ Growing up in Texas has made me obsessed with Slow&Low barbecue which I exercise
 [ccl]: http://www.cambridgeconsultants.com/ "Cambridge Consultants"
 [icl]: https://www.imperial.ac.uk/ "Imperial College"
 [bsn]: https://www.imperial.ac.uk/hamlyn-centre/research/sensing/body-sensor-networks/ "Hamlyn Centre"
-[linkedin]: https://www.linkedin.com/in/jim-ac-patterson/ "LinkedIn"
+[lnkdn]: https://www.linkedin.com/in/jim-ac-patterson/ "LinkedIn"
 [esprit]: https://www.imperial.ac.uk/hamlyn-centre/research/sensing/esprit-elite-sport-performance-research-in-training/ "Elite Sport Performance Research in Training"
