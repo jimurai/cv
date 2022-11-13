@@ -1,6 +1,6 @@
 # Curriculum Vitae of Jim Patterson
 
-I am an technologist who has spent the last 20+ years working in the development of instrumentation and control systems for consumer products, medical devices and biotech applications. Formally, I'm an electronic engineer, but it is the multi-discplinary opportunities presented by healthcare and synthetic biology challenges that I identify with most.
+I am a technologist who has spent the last 20+ years working in the development of instrumentation and control systems for consumer products, medical devices and biotech applications. Formally, I'm an electronic engineer, but it is the multi-discplinary opportunities presented by healthcare and synthetic biology challenges that I identify with most.
 
 ## Skills
 
