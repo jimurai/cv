@@ -2,6 +2,8 @@
 
 I am a technologist who has spent the last 20+ years working in the development of instrumentation and control systems for consumer products, medical devices and biotech applications. Formally, I'm an electronic engineer, but it is the multi-discplinary opportunities presented by healthcare and synthetic biology challenges that I identify with most.
 
+More context of my recent career can be found in my [cover letter](./cover-letter.md).
+
 ## Skills
 
 * Leadership
@@ -131,5 +133,5 @@ Growing up in Texas has made me obsessed with Slow&Low barbecue which I exercise
 [ccl]: http://www.cambridgeconsultants.com/ "Cambridge Consultants"
 [icl]: https://www.imperial.ac.uk/ "Imperial College"
 [bsn]: https://www.imperial.ac.uk/hamlyn-centre/research/sensing/body-sensor-networks/ "Hamlyn Centre"
-[linkedin]: https://www.linkedin.com/in/jim-ac-patterson/"LinkedIn"
+[linkedin]: https://www.linkedin.com/in/jim-ac-patterson/ "LinkedIn"
 [esprit]: https://www.imperial.ac.uk/hamlyn-centre/research/sensing/esprit-elite-sport-performance-research-in-training/ "Elite Sport Performance Research in Training"
