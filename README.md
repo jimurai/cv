@@ -121,7 +121,7 @@ Course selection focussed on control engineering and analogue circuit design. Fi
 
 ### Hobbies
 
-Growing up in Texas has made me obsessed with Slow&Low barbecue which I exercise on my Green Mountains Grill Trek pellet smoker. I'm a 3rd generation motorbiker and keep looking for excuses to get back into trackdays but keep myself entertained either commuting or touring with mates on my BMW R1200 RS.
+Growing up in Texas has made me obsessed with slow & low barbecue which I exercise on my Green Mountain Grills Trek pellet smoker. I'm a 3rd generation motorbiker and keep looking for excuses to get back into trackdays but keep myself entertained either commuting or touring with mates on my BMW R1200 RS.
 
 [github]: http://github.com/jimurai "My github repositories"
 [thesis]: http://bit.ly/10fROfH "My PhD Thesis"
