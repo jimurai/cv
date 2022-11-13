@@ -79,7 +79,7 @@ Lead the development of advanced control features to ensure OIS product met cust
 
 ### [Imperial College London][icl]
 
-My [PhD][thesis] from Imperial College London was in biomedical electronics where I researched techniques to enable continuous cardiac monitoring of patients with minimum impact on their lives as part of the [Body Sensor Networks]([bsn]) team at the Hamlyn Centre. The outcome was a pulse oximeter sensor that combined high-dynamic range noise rejection with embedded signal analysis and sub-10mW power consumption using only off-the-shelf components.
+My [PhD][thesis] from Imperial College London was in biomedical electronics where I researched techniques to enable continuous cardiac monitoring of patients with minimum impact on their lives as part of the [Body Sensor Networks][bsn] team at the Hamlyn Centre. The outcome was a pulse oximeter sensor that combined high-dynamic range noise rejection with embedded signal analysis and sub-10mW power consumption using only off-the-shelf components.
 
 I also supported multiple other research campaigns by providing electronic hardware and software development with product development grade quality.
 
@@ -117,7 +117,7 @@ Course selection focussed on control engineering and analogue circuit design. Fi
 * Full name: James Alwyn Cameron Patterson
 * Location: Cambridge, UK
 * [GitHub](https://github.com/jimurai)
-* [LinkedIn]([lnkdn])
+* [LinkedIn][lnkdn]
 
 ### Hobbies
 
