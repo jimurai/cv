@@ -24,3 +24,7 @@ At [Evonetix][evo], as the Head of Electronics, I joined a team of one and took 
 * Campaigned for and lead a cross-discipline team to address a significant technical roadblock, adopting Agile methods, and delivered the desired results in a short period of time.
 
 In late 2021, I identified the need for someone at Evonetix to take ownership for our thermal control capability and I put my hand up for that responsibility. The first step was to find someone who could take over the Electronics team. Once the team were in safe hands, I could focus on defining the capability, resolving any outstanding issues residing in our workstreams, and delivering the thermal strategy for our product with a quality plan and technology roadmap to see us all the way through to delivery customers.
+
+[evo]: https://www.evonetix.com/ "Evonetix"
+[garage]: https://www.analog.com/en/about-adi/incubators/analog-garage.html "Analog Garage"
+[adi]: https://www.analog.com/ "Analog Devices"
