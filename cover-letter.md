@@ -1,8 +1,8 @@
-I am an technologist who has spent the last 20+ years working in the development of instrumentation and control systems for consumer products, medical devices and biotech applications. Formally, I'm an electronic engineer, but it is the multi-discplinary opportunities presented by healthcare and synthetic biology challenges that I identify with most.
+I am a technologist who has spent the last 20+ years working in the development of instrumentation and control systems for consumer products, medical devices and biotech applications. Formally, I'm an electronic engineer, but it is the multi-discplinary opportunities presented by healthcare and synthetic biology challenges that I identify with most.
 
 I've been trained to take an analytical approach to defining a problem before mapping that gained understanding onto models that enable informed decision making throughout the lifecycle of the product development. I can apply this approach equally in the comfort of an internal development environment or in front of customers where I enjoy the challenge of mapping their problems onto our capabilities in real-time. It is this setting where my passion for clear and concise communication, whether it be creating and delivering presentations or producing technical documentation, get to shine.
 
-Equally comfortable operating down at the day-to-day tactical level as well as defining long reach strategies, I can lead lean and effective solution developmentadoption of systems engineering practices and application of tailor-made processes.
+Equally comfortable operating down at the day-to-day tactical level as well as defining long reach strategies, I can lead lean and effective solution development through adoption of systems engineering practices and application of tailor-made processes.
 
 These days I most love architecting solutions from day 1 of projects, but I'm still capable of getting hands-on in the lab although even better at passing on these skills to other in order to grow team capabilities, whether it is through mentoring existing team members or focussed recruitment drives.
 
