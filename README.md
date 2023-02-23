@@ -56,6 +56,7 @@ More context of my recent career can be found in my [cover letter](./cover-lette
 ### [PA](paconsulting.com)
 
 *February 2023 to Present*
+**Principal Consultant**
 
 ### [Evonetix][evo]
 
