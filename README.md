@@ -53,9 +53,13 @@ More context of my recent career can be found in my [cover letter](./cover-lette
 
 ## Employment History
 
+### [PA](paconsulting.com)
+
+*February 2023 to Present*
+
 ### [Evonetix][evo]
 
-*April 2017 to June 2022*  
+*June 2022 to January 2023*  
 **Senior Staff Engineer; Thermal Control Guru**  
 Reponsible for Evonetix' thermal control capabilities and integrating them across all groups and workstreams.
 
