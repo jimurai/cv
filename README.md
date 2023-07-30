@@ -84,7 +84,7 @@ Delivered designs for a wide range of consumer and medical products on tight tim
 
 ### VideoJet Ltd.
 
-*Summer 1997, Sping & Summer 1998*  
+*Summer 1997, Spring & Summer 1998*  
 **Summer Intern**  
 Data collection from R&D inkjet print arrays. Some Excel VBA.
 
