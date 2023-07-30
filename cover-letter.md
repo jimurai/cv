@@ -20,7 +20,7 @@ At [Evonetix][evo], as the Head of Electronics, I joined a team of one and took 
 * Set up our in-house PCB CAD capability including version control, component database, review processes and progress tracking to keep our (internal) customers engaged with the development of their product.
 * Introduced test driven development of our VHDL closed-loop control solutions to support our FPGA strategy for highly parallel control systems.
 * Helped found our relationship with the [Analog Garage][garage] at Analog Devices.
-* Lead the architecture development of our thermal control ASIC with our partners, [Analog Devices][adi] and developed in-house modelling of the ADC to ensure compatibility with our MEMS devices.
+* Led the architecture development of our thermal control ASIC with our partners, [Analog Devices][adi] and developed in-house modelling of the ADC to ensure compatibility with our MEMS devices.
 * Campaigned for and lead a cross-discipline team to address a significant technical roadblock, adopting Agile methods, and delivered the desired results in a short period of time.
 
 In late 2021, I identified the need for someone at Evonetix to take ownership for our thermal control capability and I put my hand up for that responsibility. The first step was to find someone who could take over the Electronics team. Once the team were in safe hands, I could focus on defining the capability, resolving any outstanding issues residing in our workstreams, and delivering the thermal strategy for our product with a quality plan and technology roadmap to see us all the way through to delivery customers.
