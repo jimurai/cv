@@ -2,13 +2,12 @@
 
 I have 20+ years delivering electronic solutions for consumer products, medical devices and biotech applications. I am an electronic engineer experienced in delivering both hardware and software solutions with particular expertise in the design of instrumentation and control systems. As a leader, I can build teams, grow the capabilities and develop the processes required to deliver cutting edge products.
 
-## Personal Details
+### Personal Details
 
 * Full name: James Alwyn Cameron Patterson
 * Location: Cambridge, UK
-* Nationality: British
-* [LinkedIn][lnkdn]
-* [GitHub](https://github.com/jimurai)
+* Nationality: British (born in Aberdeen)
+* [LinkedIn][lnkdn], [GitHub](https://github.com/jimurai)
 
 ---
 
@@ -27,9 +26,9 @@ Part of the Electronic Systems Capability serving the Health and Life Sciences m
 
 *June 2022 to January 2023*  
 **Senior Staff Engineer *(Thermal Control Guru)***  
-Reponsible for Evonetix' thermal control capabilities and integrating them across all groups and workstreams.
+Responsible for Evonetix' thermal control capabilities and integrating them across all groups and workstreams.
 
-* Created Technology Roadmap for delivery of thermal control capability through to product launch
+* Created technology roadmap for delivery of thermal control capability through to product launch
 * Led development and roll-out of a reliable and robust thermal calibration capability
 
 *April 2017 to June 2022*  
@@ -37,7 +36,7 @@ Reponsible for Evonetix' thermal control capabilities and integrating them acros
 Leading the development of electronic hardware and embedded control systems in order to support the development of Evonetix unique DNA synthesis technology.
 
 * Grew team from 2 to 12 (peak)
-* Created in house PCB CAD capability (Altium Designer, DB-based comp lib)
+* Created in house PCB CAD capability (Altium Designer)
 * Led development of multi-channel AC thermal control electronics
 * Established technical relationship with Analog Devices for ASIC development
 * Led architecture development of "MVP" thermal control mixed-signal ASIC
@@ -149,7 +148,7 @@ Course selection focussed on control engineering and analogue circuit design. Fi
 
 ### Hobbies
 
-Growing up in Texas has made me obsessed with slow & low barbecue which I exercise on my Green Mountain Grills Trek pellet smoker. I'm a 3rd generation biker and keep looking for excuses to get back into trackdays but keep myself entertained either commuting or touring with mates on my BMW R1200 RS.
+Growing up in Texas made me obsessed with slow & low barbecue which I exercise on my Green Mountain Grills Trek pellet smoker. I'm a 3rd generation biker and keep looking for excuses to get back into trackdays but keep myself entertained either commuting or touring with mates on my BMW R1200 RS.
 
 [github]: http://github.com/jimurai "My github repositories"
 [thesis]: http://bit.ly/10fROfH "My PhD Thesis"
