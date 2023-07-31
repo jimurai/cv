@@ -13,6 +13,7 @@ I have 20+ years delivering electronic solutions for consumer products, medical 
 *February 2023 to present*  
 **Prinicipal Consultant**  
 Part of the Electronic Systems Capability serving the Health and Life Sciences market.
+
 * Supported delivery of electronics for fluorescence instrumentation
 * Subject matter expert in a technology landscaping project for life sciences client
 
@@ -21,12 +22,14 @@ Part of the Electronic Systems Capability serving the Health and Life Sciences m
 *June 2022 to January 2023*  
 **Senior Staff Engineer *(Thermal Control Guru)***  
 Reponsible for Evonetix' thermal control capabilities and integrating them across all groups and workstreams.
+
 * Created Technology Roadmap for delivery of thermal control capability through to product launch
 * Led development and roll-out of a reliable and robust thermal calibration capability
 
 *April 2017 to June 2022*  
 **Head of Electronics**  
 Leading the development of electronic hardware and embedded control systems in order to support the development of Evonetix unique DNA synthesis technology.
+
 * Grew team from 2 to 12 (peak)
 * Created in house PCB CAD capability (Altium Designer, DB-based comp lib)
 * Led development of multi-channel AC thermal control electronics
@@ -42,7 +45,8 @@ Leading the development of electronic hardware and embedded control systems in o
 
 *November 2015 to March 2017*  
 **Senior Engineer**  
-Had a leading role in the development of electronics hardware for the Versius surgical robotic system. 
+Had a leading role in the development of electronics hardware for the Versius surgical robotic system.
+
 * Created PCB CAD review and release proceduces
 * EMC compliance activities
 * Electronics system design for 3D-HD endoscope
@@ -64,11 +68,13 @@ Developed reference hardware design for shape memory alloy actuators used in Opt
 *October 2008 to March 2012*  
 **Research Associate**  
 Developed sensor systems to assist elite athlete training in the run up to the London 2012 Olympics ([ESPRIT][esprit]).
+
 * Force-sensitive resistor arrays for instrumented sports equipment
 * 3G telemetry for real-time monitoring/tracking of athlete performance with modular sensor network interface
 
 **PhD Candidate**  
 Thesis titled: [*"A Photoplethysmography System Optimised for Wearable Pervasive Cardiac Monitoring"*][thesis]. Involved finding a robust solution to optical noise issues that could be implemented in a minimal number of circuit components.
+
 * Low-power, low noise integrating transimpedance amplifier
 * Multi-mode optical noise rejection
 * Embedded signal processing on Cortex-M0 (lattice wave-digital filters)
