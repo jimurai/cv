@@ -1,8 +1,14 @@
-# Jim Patterson's CV
+## Jim Patterson's CV
 
 I have 20+ years delivering electronic solutions for consumer products, medical devices and biotech applications. I am an electronic engineer experienced in delivering both hardware and software solutions with particular expertise in the design of instrumentation and control systems. As a leader, I can build teams, grow the capabilities and develop the processes required to deliver cutting edge products.
 
-<!-- More context of my recent career can be found in my [cover letter](./cover-letter.md). -->
+## Personal Details
+
+* Full name: James Alwyn Cameron Patterson
+* Location: Cambridge, UK
+* Nationality: British
+* [LinkedIn][lnkdn]
+* [GitHub](https://github.com/jimurai)
 
 ---
 
@@ -36,7 +42,7 @@ Leading the development of electronic hardware and embedded control systems in o
 * Established technical relationship with Analog Devices for ASIC development
 * Led architecture development of "MVP" thermal control mixed-signal ASIC
 * Modelled thermal systems and delta-sigma ADC structures using State-Space Representation (Python)
-* Founded strategic capbility in using FPGAs (Spartan 7) for many-channel closed-loop control problems
+* Initiated strategic capability in using FPGAs for many-channel closed-loop control problems
 * Championed combined feed-foward/feed-back control structures for thermal control applications
 * Non-linear function approximation using PWL+ReLU for RTL controllers
 * "Single-click" build process for Spartan 7 RTL + Microblaze MCU code
@@ -47,7 +53,7 @@ Leading the development of electronic hardware and embedded control systems in o
 **Senior Engineer**  
 Had a leading role in the development of electronics hardware for the Versius surgical robotic system.
 
-* Created PCB CAD review and release proceduces
+* Created PCB CAD review and release procedures
 * EMC compliance activities
 * Electronics system design for 3D-HD endoscope
 
@@ -65,80 +71,31 @@ Developed reference hardware design for shape memory alloy actuators used in Opt
 
 ### [Imperial College London][icl]
 
-*October 2008 to March 2012*  
+*Early 2011 to March 2012*  
 **Research Associate**  
 Developed sensor systems to assist elite athlete training in the run up to the London 2012 Olympics ([ESPRIT][esprit]).
 
 * Force-sensitive resistor arrays for instrumented sports equipment
 * 3G telemetry for real-time monitoring/tracking of athlete performance with modular sensor network interface
 
-**PhD Candidate**  
-Thesis titled: [*"A Photoplethysmography System Optimised for Wearable Pervasive Cardiac Monitoring"*][thesis]. Involved finding a robust solution to optical noise issues that could be implemented in a minimal number of circuit components.
-
-* Low-power, low noise integrating transimpedance amplifier
-* Multi-mode optical noise rejection
-* Embedded signal processing on Cortex-M0 (lattice wave-digital filters)
-* Current-conveyor based analogue front in for mixed-signal ASIC (TSMC 180nm CMOS)
-
 ### [Cambridge Consultants Ltd.][ccl]
 
 *September 2004 to September 2008*  
 **Senior Engineer, Engineer**   
-*September 1999 to July 2000*  
-**Technology Scholar**  
 Delivered designs for a wide range of consumer and medical products on tight time-lines and budget constraints.  Everything from implantable wireless devices to intelligent ironing boards.
 
-### VideoJet Ltd.
+* 1MHz precision UV LED driver
+* Automatic gain control of LED intensity
+* Transimpedance amplifiers
+* FPGA-based data acquisition systems
+* Numerous MCU-based sensor interfaces
+* Bandgap cell for mixed-signal ASIC
+* Logic library for analogue partition of mixed-signal ASIC
 
-*Summer 1997, Spring & Summer 1998*  
-**Summer Intern**  
-Data collection from R&D inkjet print arrays. Some Excel VBA.
 
----
-
-## Skills
-
-* Circuit Design: Low power, low-noise PCB and ASIC sensor systems
-  * Transimpedance amplifiers & LED drivers (fluoro-assays, pulse-oximetry) 
-  * FPGA PCB and RTL
-  * ASIC logic library creation
-* PCB Design
-  * Multi-board architectures
-  * Altium Designer (design entry, component library management, data release)
-  * Analogue signal chains (transistor, op-amp)
-  * Power management
-* Software Capabilities
-  * Microcontrollers (C/C++, PIC, AVR, ARM, Microblaze, RL78)
-  * Signal chain modelling (Python, MATLAB)
-  * Dynamical system modelling (e.g. ODEs -  Python, Julia)
-  * Test Driven Development (VHDL, Python, Docker)
-  * Database integration (SQLite, MariaDB, Python, Altium Designer)
-  * Data collection and analysis (HDF5 + Python, Arrow/Parquet + Rust)
-* Control Systems
-  * Implementation on both MCUs and FPGAs
-  * Non-linearity compensation (feedback linearisation)
-  * Hysteresis compensation (Prandtl-Ishlinskii)
-* Signal Processing
-  * Implementation on analogue circuits, MCU firmware and FPGA RTL
-  * Time-domain filtering (IIR, FIR, LWDF)
-  * Non-stationary signal analysis
-  * Image processing
-* Systems Engineering/Product Development
-  * Problem definition/requirements capture
-  * Complete product architecture
-* Leadership
-  * Technical authority across multiple disciplines
-  * Strategic planning and programme definitions
-  * Team growth and capability development
-
-### Tools / Programming Languages
-
-* Embedded C/C++
-* Python (NumPy,SciPy,Cython,PyQt)
-* PCB EDA (Altium Designer)
-* VHDL & Verilog
-* Jira, Confluence, Bitbucket
-* *Learning Rust and Julia when life permits*
+*September 1999 to July 2000, summers '01-'03*  
+**Technology Scholar**  
+Microcontroller programming and circuit debugging for electro-luminescent displays.
 
 ---
 
@@ -146,9 +103,12 @@ Data collection from R&D inkjet print arrays. Some Excel VBA.
 
 **PhD, Pervasive Sensing, Department of Computing**  
 *Imperial College London, 2008-2012*  
-My [PhD][thesis] from Imperial College London was in biomedical electronics where I researched techniques to enable continuous cardiac monitoring of patients with minimum impact on their lives as part of the [Body Sensor Networks][bsn] team at the Hamlyn Centre. The outcome was a pulse oximeter sensor that combined high-dynamic range noise rejection with embedded signal analysis and sub-10mW power consumption using only off-the-shelf components.
+Thesis titled: [*"A Photoplethysmography System Optimised for Wearable Pervasive Cardiac Monitoring"*][thesis]. Involved finding a robust solution to optical noise issues that could be implemented in a minimal number of circuit components. The outcome was a pulse oximeter sensor that combined high-dynamic range noise rejection with embedded signal analysis and sub-10mW power consumption using only off-the-shelf components.
 
-I also supported multiple other research campaigns by providing electronic hardware and software development with product development grade quality.
+* Low-power, low noise integrating transimpedance amplifier
+* Multi-mode optical noise rejection
+* Embedded signal processing on Cortex-M3
+* Current-conveyor based analogue front in for mixed-signal ASIC (TSMC 180nm)
  
 **MEng, 1st class, Electrical and Electronic Engineering**  
 *Imperial College London, 2000-2004*  
@@ -156,17 +116,40 @@ Course selection focussed on control engineering and analogue circuit design. Fi
 
 ---
 
-## Personal Details
+## Skills
 
-* Full name: James Alwyn Cameron Patterson
-* Location: Cambridge, UK
-* Nationality: British
-* [GitHub](https://github.com/jimurai)
-* [LinkedIn][lnkdn]
+* Circuit Design
+  * Analogue front-ends
+  * Mixed-signal circuits and data converters
+  * Power management
+  * Digital circuits (logic, MCU, FPGA, communications)
+  * Mixed-signal ASIC
+  * PCB CAD: Altium Designer (design entry, component library management, data release)
+* Software Capabilities
+  * Microcontrollers (C/C++, PIC, AVR, ARM, Microblaze, RL78)
+  * Data collection and analysis (HDF5, *Arrow/Parquet + Rust*)
+  * Database integration (SQLite, MariaDB, Python, Altium Designer)
+  * Test Driven Development (VHDL, Python, Docker)
+* Control Systems
+  * Continuous-time implementation in analogue circuits
+  * Discrete-time implementation on MCUs and FPGAs
+  * Non-linearity compensation (feedback linearisation)
+  * Hysteresis compensation (Prandtl-Ishlinskii)
+* Signal Processing
+  * Numerical modelling (e.g. ODEs - Python, *MATLAB, Julia*)
+  * Time-domain filtering (IIR, FIR, LWDF)
+  * Non-stationary signal analysis
+  * Digital image processing
+  * Implementation on analogue circuits, MCU firmware and FPGA RTL
+* Systems Engineering/Product Development
+  * Problem definition/requirements capture
+  * Complete product architecture
+
+---
 
 ### Hobbies
 
-Growing up in Texas has made me obsessed with slow & low barbecue which I exercise on my Green Mountain Grills Trek pellet smoker. I'm a 3rd generation motorbiker and keep looking for excuses to get back into trackdays but keep myself entertained either commuting or touring with mates on my BMW R1200 RS.
+Growing up in Texas has made me obsessed with slow & low barbecue which I exercise on my Green Mountain Grills Trek pellet smoker. I'm a 3rd generation biker and keep looking for excuses to get back into trackdays but keep myself entertained either commuting or touring with mates on my BMW R1200 RS.
 
 [github]: http://github.com/jimurai "My github repositories"
 [thesis]: http://bit.ly/10fROfH "My PhD Thesis"
