@@ -6,7 +6,7 @@ I have 20+ years delivering electronic solutions for consumer products, medical 
 
 * Full name: James Alwyn Cameron Patterson
 * Location: Cambridge, UK
-* Nationality: British (born in Aberdeen)
+* Nationality: British
 * [LinkedIn][lnkdn], [GitHub](https://github.com/jimurai)
 
 ---
@@ -21,6 +21,8 @@ Part of the Electronic Systems Capability serving the Health and Life Sciences m
 
 * Supported delivery of electronics for fluorescence instrumentation
 * Subject matter expert in a technology landscaping project for life sciences client
+* System architect for ECM device, using MBSE/SysML
+* Lead Systems Architect/Engineer for next generation biotech diagnostics instrument
 
 ### [Evonetix][evo]
 
@@ -107,7 +109,7 @@ Thesis titled: [*"A Photoplethysmography System Optimised for Wearable Pervasive
 * Low-power, low noise integrating transimpedance amplifier
 * Multi-mode optical noise rejection
 * Embedded signal processing on Cortex-M3
-* Current-conveyor based analogue front in for mixed-signal ASIC (TSMC 180nm)
+* Current-conveyor based analogue front end for mixed-signal ASIC (TSMC 180nm)
  
 **MEng, 1st class, Electrical and Electronic Engineering**  
 *Imperial College London, 2000-2004*  
