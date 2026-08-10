@@ -1,6 +1,7 @@
 ## Jim Patterson's CV
 
-I have 20+ years delivering electronic solutions for consumer products, medical devices and biotech applications. I am an electronic engineer experienced in delivering both hardware and software solutions with particular expertise in the design of instrumentation and control systems. As a leader, I can build teams, grow the capabilities and develop the processes required to deliver cutting edge products.
+Deep Tech leader with 20+ years of experience delivering high-value hardware and systems across med-tech, life sciences, consumer, and defense markets. Combining deep expertise in analogue circuits, FPGAs, control systems, and MBSE, I enable cross-functional teams to solve complex physical problems and translate core science into scalable, revenue-generating products.
+I build engineering cultures grounded in compassion and psychological safety—fostering high-trust environments where innovation thrives and teams consistently deliver customer value.
 
 ### Personal Details
 
@@ -17,12 +18,13 @@ I have 20+ years delivering electronic solutions for consumer products, medical 
 
 *February 2023 to present*  
 **Prinicipal Consultant**  
-Part of the Electronic Systems Capability serving the Health and Life Sciences market.
+Part of the Engineering Capability serving the Health and Life Sciences market.
 
-* Supported delivery of electronics for fluorescence instrumentation
+* Lead electronics and software engineer on solid state nanopore diagnostic instrument, providing the client full ownership of the instrumentation that feeds their machine learning IP the data that will unlock their revenue
+* Control solution architect for exercise equipment, using impedance control and disturbance observer technology to deliver class-leading user "feel"
+* Lead Systems Architect/Engineer for next generation biotech diagnostics instrument, achieving turn-around time and cost of goods sold that would retain dominant market share
 * Subject matter expert in a technology landscaping project for life sciences client
 * System architect for ECM device, using MBSE/SysML
-* Lead Systems Architect/Engineer for next generation biotech diagnostics instrument
 
 ### [Evonetix][evo]
 
